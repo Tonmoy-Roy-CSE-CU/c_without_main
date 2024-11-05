@@ -1,1 +1,5 @@
-#Code Without Main function in C
+
+## C without main function
+
+A brief description of what this project does and who it's for
+
